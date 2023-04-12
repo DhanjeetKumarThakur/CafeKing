@@ -1,0 +1,3 @@
+We will use this floder for storing images.
+
+- This website is created using Materialize css 
